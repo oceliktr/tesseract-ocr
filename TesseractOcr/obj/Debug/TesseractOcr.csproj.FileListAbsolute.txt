@@ -1,0 +1,17 @@
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\x64\liblept172.dll
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\x64\libtesseract304.dll
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\x86\liblept172.dll
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\x86\libtesseract304.dll
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\TesseractOcr.exe.config
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\TesseractOcr.exe
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\TesseractOcr.pdb
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\Tesseract.dll
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\bin\Debug\Tesseract.xml
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.csprojResolveAssemblyReference.cache
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.Properties.Resources.resources
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.csproj.GenerateResource.cache
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.csproj.CoreCompileInputs.cache
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.csproj.CopyComplete
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.exe
+C:\Users\Erzurum ÖDM\source\repos\WindowsFormsApp7\TesseractOcr\obj\Debug\TesseractOcr.pdb

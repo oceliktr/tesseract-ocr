@@ -1,0 +1,17 @@
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp6.Form1.resources
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\x64\liblept172.dll
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\x64\libtesseract304.dll
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\x86\liblept172.dll
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\x86\libtesseract304.dll
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\Tesseract.dll
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\Tesseract.xml
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+c:\users\erzurum ödm\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
